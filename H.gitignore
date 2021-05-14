@@ -1,0 +1,11 @@
+# No ".java" files 
+
+*.java
+
+# No ".vb" files 
+
+*.vb
+
+# Except "Test.vb" Is a nice one
+
+!Test.vb
